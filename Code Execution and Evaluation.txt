@@ -1,0 +1,9 @@
+I have included a screenshot of the results of my code execution on my machine with 8GB of RAM and an i5 processor.
+From the screenshot, it can be seen that my script finishes executing just under the 5 minute mark at ~4 minutes and 58
+seconds. The results of my script indicate that 'acow' appears in 3 web documents a total of 3 times. Those documents are 
+lists-092-3952951, lists-092-4113429, and lists-108-11347927. It also indicates that 'yhoo' appeared in 5 text documents
+(lists-023-10682161 - 3, lists-108-13957710 - 1, lists-108-14081562 - 1, lists-108-14193964 - 1, 
+lists-108-14312844 - 1) a total of 7 times. I'm not sure if the code will finish in under 5 minutes on the test machine,
+but it did on my own so I hope that will suffice for full credit. Additionally, I was able to fit my entire index structure
+into RAM on my machine so I did not bother writing it to disk in chunks as it was mentioned in the instructions that this
+is only necessary if you can't fit everything into memory.

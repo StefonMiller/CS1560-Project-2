@@ -1,0 +1,5 @@
+My scripts should be fairly easy to read as they are just small snippets of code under each of the supplied methods.
+Each snippet of code is also commented for readability. To run my scripts, simply run the HW2Main.py file using
+python HW2Main.py. The development environment I used was Python version 3.8.10 running on VSCode. Additionally, 
+the 'data/indextext' and 'data/indexweb' should be initially empty as attempting to open them again leads to an error
+since the files are so large. 
